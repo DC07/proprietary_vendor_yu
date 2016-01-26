@@ -125,6 +125,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/jalebi/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
+    vendor/yu/jalebi/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
     vendor/yu/jalebi/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     vendor/yu/jalebi/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
